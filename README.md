@@ -6,7 +6,7 @@
 #include <iomanip>
 using namespace std;
 
-//global variables
+//global variables//
 bool checkwin_game2(string);
 string get_random_number();
 int get_outplaced_matched_count(string, string);
